@@ -2,7 +2,8 @@
 
 # Demo
 How the app looks in iOS:
-![iphone gif](https://user-images.githubusercontent.com/22214915/116829112-62c48f80-aba3-11eb-870f-a4ef91e8e00f.gif)
+<img src="https://user-images.githubusercontent.com/22214915/116829112-62c48f80-aba3-11eb-870f-a4ef91e8e00f.gif" width="250" height="500"/>
+
 
 
 
