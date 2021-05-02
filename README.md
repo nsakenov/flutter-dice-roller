@@ -1,5 +1,13 @@
 # Dicee 🎲
 
+# Demo
+How the app looks in iOS:
+
+<figure class="video_container">
+  <iframe src="https://user-images.githubusercontent.com/22214915/116828998-7ae7df00-aba2-11eb-9894-254353b15980.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
 ## The purpose of building a dice roller app:
 
 - How to use Flutter stateless widgets to design the user interface.
